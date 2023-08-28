@@ -23,6 +23,7 @@
 /* about section image CSS */
 .imageAboutPage {
     width: 100%;
+    border-radius: 20px;
 }
 /* display background color black on navbar scroll */
 .navbarDark {
